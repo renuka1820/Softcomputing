@@ -1,0 +1,45 @@
+Project Structure
+Users Module: Handles customer and representative authentication and profile management.
+Service Requests Module: Enables customers to submit, update, and track service requests.
+Request Management Module: Provides tools for representatives to manage requests and provide support.
+Admin Panel: Allows administrators to manage data and configure settings.
+Features
+1. Authentication and User Profiles
+Login/Register:
+Customers and representatives can log in or sign up.
+Separate roles for customers and representatives.
+Account Management:
+Customers can view and update their profile.
+Representatives can manage their profiles and view assigned requests.
+2. Service Requests
+Submission:
+Customers can create a service request by:
+Selecting the type of service (e.g., gas leak repair, meter issue, etc.).
+Providing details (description, address, and phone number).
+Attaching files (e.g., images or documents).
+Request Tracking:
+Customers can view:
+Request status (e.g., "Submitted," "In Progress," "Resolved").
+Submission date/time.
+Expected resolution date/time.
+Updates from representatives.
+3. Request Management (Support Representative)
+Dashboard:
+Representatives can:
+View a list of assigned service requests.
+Search and filter requests by status, type, or customer.
+Request Updates:
+Update request status and resolution details.
+Add internal notes or comments visible to the customer.
+Attach additional files if needed.
+4. Notifications
+Email and In-App Alerts:
+Notify customers about:
+Request creation confirmation.
+Status changes (e.g., "Your request has been resolved").
+Comments or additional information requests from representatives.
+Representatives receive alerts for new requests assigned to them.
+5. Admin Features
+Dashboard:
+Manage customers, representatives, and service types.
+Generate reports on request statistics and response times.
